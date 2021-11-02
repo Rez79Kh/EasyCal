@@ -1,4 +1,4 @@
-# calculator
+# EasyCal
 
 This is my first flutter experience.
 
