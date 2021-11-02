@@ -43,7 +43,6 @@ class CalButtonState extends State<CalButton> {
       child: Container(
         decoration: BoxDecoration(
           color: widget.color,
-          // border: Border.all(color: Colors.transparent, width: 0),
           borderRadius: BorderRadius.circular(20.0),
         ),
         margin: EdgeInsets.fromLTRB(10, 5, 10, 10),
